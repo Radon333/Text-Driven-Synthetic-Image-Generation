@@ -71,7 +71,7 @@ const Form = () => {
   return (
     <div style={{ background:"#161b22",textAlign: "center" }}>
       <h1 style={{ color: "#fc5d87" }}>
-        Text Driven Synthetic Image Generation via Stable Diffusion Model
+        Text Driven Synthetic Image Generation
       </h1>
       <br/>
       <form onSubmit={submitValue}>
